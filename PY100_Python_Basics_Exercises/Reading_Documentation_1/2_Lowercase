@@ -1,6 +1,0 @@
-str.lower()
-#Return a copy of the string with all the cased characters [4] converted to lowercase.
-
-#https://docs.python.org/3.13/library/stdtypes.html#string-methods
-
-
