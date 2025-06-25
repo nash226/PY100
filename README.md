@@ -1,8 +1,3 @@
-# Learning Git #
+This is a repository for the Python track @ Launch School
 
-Launch School
-
-Important steps for gir workflow
-
-1. Initialize repository with git init
-2. Create changes to project files
+Included are code snippets from problem sets and courses
